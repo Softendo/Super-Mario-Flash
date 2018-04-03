@@ -1,6 +1,6 @@
 # Changelog
 
-Changes for 5.0.0.3:
+# Changes for 5.0.0.3:
 
 U2:
 
@@ -39,7 +39,7 @@ U12:
 
 ___________________________________________
 
-Changes for 6.0b:
+# Changes for 6.0b:
 
 -Main/Bonus Zone feature fixed and readded. (Missing from 4.0 to 5.0.0.3)
 -New Character Suit: Link.
@@ -52,7 +52,7 @@ Changes for 6.0b:
 
 __________________________________________
 
-Changes for 7.0:
+# Changes for 7.0:
 
 Build 10502:
 
@@ -74,7 +74,7 @@ Build 10712:
 
 ___________________________________________
 
-Changes for 8.0:
+# Changes for 8.0:
 
 Build 11081:
 
@@ -89,7 +89,7 @@ Build 11081:
 
 ___________________________________________
 
-Changes for 9.0:
+# Changes for 9.0:
 
 Build 11134:
 
