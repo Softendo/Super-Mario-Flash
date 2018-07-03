@@ -102,6 +102,16 @@ Build 11134:
 
 ___________________________________________
 
+# Changes for 10.0:
+
+Build 12310:
+
+-New Editor UI
+-Even more and more new NPCs and blocks.
+-New HUD design
+-Removal of the "Campaign" Mode.
+
+____________________________________________
 
 
 Controls:
@@ -112,4 +122,4 @@ Shoot: X
 Warp Entrance: Up or Space.
 
 Game made by Pouetpu (c) 2007.
-Game updated by Softendo (c)2015-2016-2017.
+Game updated by Softendo (c)2015-2016-2017-2018.
